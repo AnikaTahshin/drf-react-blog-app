@@ -1,0 +1,4 @@
+python manage.py makemigrations --dry-run --verbosity 3
+py manage.py runserver
+pip install django
+pip install djangorestframework
